@@ -12,7 +12,7 @@ I’m a full-stack developer with 6+ years of experience building scalable web a
 - **Backend:** ASP.NET Core, C#, Web APIs
 - **Cloud:** Microsoft Azure, Azure Functions, App Services
 - **Database:** MySQL, SQL Server
-- **Tools:** Git, GitHub, Azure DevOps, Docker, Postman
+- **Tools:** Git, GitHub, Azure DevOps
 
 ---
 
